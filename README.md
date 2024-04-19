@@ -20,13 +20,13 @@ Project Name: KitchenHUB
 ●	بيئة آمنة وموثوقة لعمليات الاستئجار مع ضمان الجودة والموثوقية في الخدمات المقدمة. 
 
 ### ما هي المشاكل أو التحديات التي تواجه المستخدم:
-●	قلة الشفافية في المعلومات: قد يكون هناك نقص في المعلومات المتاحة عن المطابخ المعروضة للإيجار، مما يجعل من الصعب على المستأجرين فهم كافة التفاصيل اللازمة قبل اتخاذ القرار.
+**●	قلة الشفافية في المعلومات:** قد يكون هناك نقص في المعلومات المتاحة عن المطابخ المعروضة للإيجار، مما يجعل من الصعب على المستأجرين فهم كافة التفاصيل اللازمة قبل اتخاذ القرار.
 
-●	مشاكل في التواصل: قد تواجه التحديات في التواصل بين مالكي المطابخ والمستأجرين، مما يؤثر على سلاسة عملية الاستئجار وتنظيم الاتفاقيات.
+**●	مشاكل في التواصل:** قد تواجه التحديات في التواصل بين مالكي المطابخ والمستأجرين، مما يؤثر على سلاسة عملية الاستئجار وتنظيم الاتفاقيات.
 
-●	صعوبة اختيار المطبخ المناسب حسب الاحتياج. 
+●	صعوبة اختيار المطبخ المناسب حسب الاحتياج.
 
-●	ارتفاع تكاليف إنشاء المطابخ الخاصة. 
+●	ارتفاع تكاليف إنشاء المطابخ الخاصة.
 
 ### ما هي الحلول التي يقدمها المشروع لحل تلك المشاكل أو التحديات: 
 ●	توفر المعلومات الكافية حول المطابخ المتاحة للإيجار وتوفر كافة التفاصيل اللازمة.
@@ -35,4 +35,27 @@ Project Name: KitchenHUB
 
 ●	مرونة الخيارات في الاختيار بناءً على احتياجات العملاء.
 
-●	التنوع في أسعار الخدمات المعروضة. 
+●	التنوع في أسعار الخدمات المعروضة.
+
+
+## USER Stories, Wireframe and UML
+**USER STORIES**
+
+***As a kitchen owner:***
+* I want an easy-to-use platform where I can list my available kitchen spaces for rent, providing comprehensive details and images to attract potential renters and maximize my rental income.
+* I need tools to effectively manage my rental bookings, including features for scheduling, communication with renters, and tracking payments, ensuring a smooth and organized rental process.
+* I seek a platform that verifies the credentials of businesses renting my kitchen spaces, ensuring they meet regulatory requirements and maintaining the safety and cleanliness of my facilities.
+* I require flexibility in setting rental rates and terms, allowing me to adjust pricing based on demand, time of day, or specific renter requirements to optimize my revenue.
+
+***As a restaurant owner:***
+* I need a user-friendly platform where I can easily search and compare available kitchen spaces for rent, enabling me to find the best option to expand my operations efficiently.
+
+***As a startup founder:***
+* I seek a platform that facilitates communication with kitchen owners, allowing me to quickly negotiate rental terms and secure a suitable space for my food business prototype.
+
+***As an individual looking to start a food business:***
+* I require access to a variety of kitchen rental options that meet my specific needs and budget constraints, enabling me to pursue my entrepreneurial goals effectively.
+
+**Wireframe URL:**
+
+**UML URL:**
